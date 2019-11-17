@@ -10,7 +10,7 @@ There are four main tutorials at present:
 3. A guide to matplotlib
 4. A guide to astropy
 
-I am continuing to build upon the guide to astropy, given that it is highly useful to my work
+I am continuing to build upon the guide to astropy given that it is highly useful to my work
 in astrophysics, and I have in the past struggled to find good tutorials for this. In addition to
 this, I am also planning to build a tutorial to pandas in the near future.
 
