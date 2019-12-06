@@ -13,5 +13,5 @@ There are five main tutorials at present:
 
 I am continuing to build upon the guide to astropy given that it is highly useful to my work
 in astrophysics, and I have in the past struggled to find good tutorials for this. In addition to
-this, I am also planning to build a tutorial to scipy in the future.
+this, I am also planning to expand my tutorial to scipy in the future.
 
