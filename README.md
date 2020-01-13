@@ -13,4 +13,6 @@ There are six main tutorials at present:
 6. A guide to astropy (still work in progress)
 
 I am continuing to build upon the guide to astropy given that it is highly useful to my work
-in astrophysics, and I have in the past struggled to find good tutorials for this.
+in astrophysics, and I have in the past struggled to find good tutorials for this. I am also
+building smaller guides to faciliate the understanding of ideas in computer science, such as
+lambda calculus.
